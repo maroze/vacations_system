@@ -1,0 +1,7 @@
+C:\Users\grigo.LAPTOP-I99MLH6G\source\repos\VacationSystem\VacationSystem\bin\Debug\VacationSystem.exe.config
+C:\Users\grigo.LAPTOP-I99MLH6G\source\repos\VacationSystem\VacationSystem\bin\Debug\VacationSystem.exe
+C:\Users\grigo.LAPTOP-I99MLH6G\source\repos\VacationSystem\VacationSystem\bin\Debug\VacationSystem.pdb
+C:\Users\grigo.LAPTOP-I99MLH6G\source\repos\VacationSystem\VacationSystem\obj\Debug\VacationSystem.csproj.AssemblyReference.cache
+C:\Users\grigo.LAPTOP-I99MLH6G\source\repos\VacationSystem\VacationSystem\obj\Debug\VacationSystem.csproj.CoreCompileInputs.cache
+C:\Users\grigo.LAPTOP-I99MLH6G\source\repos\VacationSystem\VacationSystem\obj\Debug\VacationSystem.exe
+C:\Users\grigo.LAPTOP-I99MLH6G\source\repos\VacationSystem\VacationSystem\obj\Debug\VacationSystem.pdb
